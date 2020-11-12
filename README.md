@@ -3,7 +3,7 @@ Simple and hackable programming language for learning about compiler design
 
 ![terminal image](https://github.com/manisaiprasad/msp_lang/blob/master/simple.gif)
 
-This language was impelemented in [golang](https://golang.org/), But you can pretty much understand the concepts behind, even if you never write a single line of code in go language
+This language was implemented in [golang](https://golang.org/), But you can pretty much understand the concepts behind, even if you never write a single line of code in go language
 
 ## Instructions to run on your local Machine 
 Head over to https://golang.org/ and install 'go' on your system 
@@ -33,9 +33,27 @@ or `go run ./src/msp_lang/main.go`
 Hello $username! This is the MSP Lang programming language!
 Feel free to type in commands
 ```
+
+## Feature checklist
+✅ Simple syntax
+
+✅ Variable bindings
+
+✅ Integers and booleans
+
+✅ Arithmetic expressions
+
+✅ Functions
+
+⌛️ String data structure
+
+⌛️ Array data structure
+
+
 # Contributions
 We'd love to accept your patches and doc suggestions! and Any kind of enhancements, bug reports are always welcome.
 
-* Submit an issue describing your proposed change to the repo in question.
-* Fork the repo, develop and test your changes.
+* Submit an [issue](https://github.com/manisaiprasad/msp_lang/issues/new) describing your proposed change to the repo in question.
+* [Fork](https://github.com/manisaiprasad/msp_lang/fork) the repo, develop and test your changes.
 * Submit a pull request.
+ 
