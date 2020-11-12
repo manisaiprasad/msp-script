@@ -33,6 +33,8 @@ or `go run ./src/msp_lang/main.go`
 Hello $username! This is the MSP Lang programming language!
 Feel free to type in commands
 ```
+## Play with 
+Try out some examples listed in repo [wiki](https://github.com/manisaiprasad/msp_lang/wiki) and experiment 💻, writing your own code and see how it works 
 
 ## Feature checklist
 ✅ Simple syntax
