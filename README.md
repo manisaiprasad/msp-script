@@ -33,3 +33,9 @@ or `go run ./src/msp_lang/main.go`
 Hello $username! This is the MSP Lang programming language!
 Feel free to type in commands
 ```
+# Contributions
+We'd love to accept your patches and doc suggestions! and Any kind of enhancements, bug reports are always welcome.
+
+* Submit an issue describing your proposed change to the repo in question.
+* Fork the repo, develop and test your changes.
+* Submit a pull request.
