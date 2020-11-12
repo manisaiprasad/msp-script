@@ -1,6 +1,8 @@
 # msp_lang and Interpeter
 Simple and hackable programming language for learning about compiler design
 
+![terminal image](https://github.com/manisaiprasad/msp_lang/blob/master/simple.gif)
+
 This language was impelemented in [golang](https://golang.org/), But you can pretty much understand the concepts behind, even if you never write a single line of code in go language
 
 ## Instructions to run on your local Machine 
